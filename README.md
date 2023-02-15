@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![image](https://user-images.githubusercontent.com/8367968/219136114-0a0f9d3a-c614-413d-b28e-61c80fbb935b.png)
 
 <!--
